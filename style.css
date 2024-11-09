@@ -1,5 +1,6 @@
 div {
     font-family: 'Courier New', Courier, monospace;
+    background-color:  lightgray;
 }
 
 hr {
@@ -18,16 +19,45 @@ hr {
   }
 
   h3 {
+    margin-left: 2.5%; 
+  }
+
+  h2 {
     margin-left: 2.5%;
-    font-family: 'Times New Roman', Times, serif;
-    
   }
 
   p {
     margin-left: 3%;
-    text-wrap: pretty;
+    margin-right: 3%;
+    text-wrap: balance
   }
 
-  ul {
+  .skills  {
     list-style-type: none;
   }
+
+   .term {
+    font-style: italic;
+  }
+
+   .jobTitle {
+    font-weight: bold;
+    list-style-type: none;
+   }
+
+   .workLines {
+    margin-left: 3%;
+   }
+
+   .education {
+    list-style-type: none;
+    font-weight: bold;
+   }
+
+   .certifications {
+    margin-left: 3%;
+   }
+
+   a {
+    
+   }
