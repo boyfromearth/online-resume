@@ -1,3 +1,4 @@
+
 div {
     font-family: 'Garamond', Courier, monospace;
 }
@@ -15,6 +16,11 @@ hr {
 
   .mainframe {
     margin: 5px;
+    width: 80%;
+    max-width: 1600px;
+    padding: 10px;
+    margin: 0 auto;
+    
   }
 
   h3 {
@@ -55,4 +61,8 @@ hr {
 
    .certifications {
     margin-left: 3%;
+   }
+
+   a {
+    
    }
